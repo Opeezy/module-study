@@ -39,20 +39,20 @@
 
 - [x] 06-Stu_HTML
 
-- [] 08_Stu_Attributes
+- [ ] 08_Stu_Attributes
 
-- [] 10-Stu_CSS-color
+- [ ] 10-Stu_CSS-color
 
-- [] 12-Stu_CSS-units-fonts
+- [ ] 12-Stu_CSS-units-fonts
 
-- [] 14-Stu_CSS-selectors
+- [ ] 14-Stu_CSS-selectors
 
-- [] 16-Stu_HTML-display
+- [ ] 16-Stu_HTML-display
 
-- [] 18-Stu_CSS-box-model
+- [ ] 18-Stu_CSS-box-model
 
-- [] 20-Stu_CSS-positioning
+- [ ] 20-Stu_CSS-positioning
+ 
+- [ ] 21-Evr_Git-Guide
 
-- [] 21-Evr_Git-Guide
-
-- [] 22-Stu_Mini-Project
+- [ ] 22-Stu_Mini-Project
