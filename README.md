@@ -37,7 +37,7 @@
 
 - [x] 04-Stu_Git
 
-- [] 06-Stu_HTML
+- [x] 06-Stu_HTML
 
 - [] 08_Stu_Attributes
 
