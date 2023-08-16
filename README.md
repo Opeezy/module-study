@@ -13,6 +13,8 @@
 
 [Attributes](https://developer.mozilla.org/en-US/docs/Glossary/Attribute)
 
+[HTML cheatsheet](https://coding-boot-camp.github.io/full-stack/html/html-cheatsheet)
+
 ## CSS
 [Color](https://developer.mozilla.org/en-US/docs/Web/CSS/color)
 
@@ -27,3 +29,30 @@
 [Position](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
 ## Other Resources
 [Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+
+[Professional README guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+
+## Activity tracker
+- [x] 02-Stu_Command-Line
+
+- [x] 04-Stu_Git
+
+- [] 06-Stu_HTML
+
+- [] 08_Stu_Attributes
+
+- [] 10-Stu_CSS-color
+
+- [] 12-Stu_CSS-units-fonts
+
+- [] 14-Stu_CSS-selectors
+
+- [] 16-Stu_HTML-display
+
+- [] 18-Stu_CSS-box-model
+
+- [] 20-Stu_CSS-positioning
+
+- [] 21-Evr_Git-Guide
+
+- [] 22-Stu_Mini-Project
