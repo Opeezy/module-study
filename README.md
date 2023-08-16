@@ -3,19 +3,19 @@
 ## ⌨️ Command-Line
 [Basic commands](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line#basic_built-in_terminal_commands)
 
-## Git and Github
+## 😸 Git and Github
 [Github](https://docs.github.com/en/get-started/quickstart/hello-world)
 
 [Git basics](https://www.atlassian.com/git)
 
-## HTML
+## 🏗️ HTML
 [Hypertext markup language](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 [Attributes](https://developer.mozilla.org/en-US/docs/Glossary/Attribute)
 
 [HTML cheatsheet](https://coding-boot-camp.github.io/full-stack/html/html-cheatsheet)
 
-## CSS
+## 🎨 CSS
 [Color](https://developer.mozilla.org/en-US/docs/Web/CSS/color)
 
 [Font](https://developer.mozilla.org/en-US/docs/Web/CSS/font)
@@ -27,12 +27,12 @@
 [The box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
 
 [Position](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
-## Other Resources
+## 📓 Other Resources
 [Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 
 [Professional README guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
 
-## Activity tracker
+## ✔️ Activity tracker
 - [x] 02-Stu_Command-Line
 
 - [x] 04-Stu_Git
