@@ -49,7 +49,7 @@
 
 - [x] 10-Stu_CSS-color
 
-- [ ] 12-Stu_CSS-units-fonts
+- [x] 12-Stu_CSS-units-fonts
 
 - [ ] 14-Stu_CSS-selectors
 
