@@ -11,6 +11,8 @@
 4. [CSS](#css)
 
 5. [Other resources](#resources)
+
+6. [Activity tracker](#tracker)
  
 ## ⌨️ Command-Line <a name="command-line"></a>
 
@@ -120,7 +122,7 @@ h1 {
 
 ### Notes
 
-## ✔️ Activity tracker
+## ✔️ Activity tracker <a name="tracker"></a>
 - [x] 02-Stu_Command-Line
 
 - [x] 04-Stu_Git
