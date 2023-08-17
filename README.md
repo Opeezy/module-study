@@ -17,6 +17,7 @@
 ## ⌨️ Command-Line <a name="command-line"></a>
 
 ### Links
+
 [Basic commands](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line#basic_built-in_terminal_commands)
 
 ### Notes
@@ -69,6 +70,26 @@
 - Use id's `id="your-id-here"` to style unique elements with CSS
 
 - Use `<link rel="stylesheet" type="text/css" href="<path-to-css">` in the head of your html file to link a css stylesheet
+
+### Examples
+
+Boilerplate html
+
+```
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>HTML 5 Boilerplate</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+	<script src="index.js"></script>
+  </body>
+</html>
+```
 
 ## 🎨 CSS <a name="css"></a>
 
