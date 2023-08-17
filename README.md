@@ -15,6 +15,8 @@
 
 [HTML cheatsheet](https://coding-boot-camp.github.io/full-stack/html/html-cheatsheet)
 
+-Use "#" in the href of an `<a></a>` tag as a placeholder. Example `<a href="#"></a>`
+
 ## 🎨 CSS
 [Color](https://developer.mozilla.org/en-US/docs/Web/CSS/color)
 
