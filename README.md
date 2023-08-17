@@ -5,6 +5,12 @@
 1. [Command-Line](#command-line)
 
 2. [Git and Github](#git)
+
+3. [HTML](#html)
+
+4. [CSS](#css)
+
+5. [Other resources](#resources)
  
 ## ⌨️ Command-Line <a name="command-line"></a>
 
@@ -39,7 +45,7 @@
 
 - `git push` will push your commits to your GitHub repo.
 
-## 🏗️ HTML
+## 🏗️ HTML <a name="html"></a>
 
 ### Links
 
@@ -62,7 +68,7 @@
 
 - Use `<link rel="stylesheet" type="text/css" href="<path-to-css">` in the head of your html file to link a css stylesheet
 
-## 🎨 CSS
+## 🎨 CSS <a name="css"></a>
 
 ### Links
 
@@ -103,7 +109,7 @@ h1 {
 }
 ```
 
-## 📓 Other Resources
+## 📓 Other Resources <a name="resources"></a>
 
 ### Links
 
