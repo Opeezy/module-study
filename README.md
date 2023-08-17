@@ -28,6 +28,8 @@
 
 - `mkdir <dir-name>` will make a directory in the current directory you are in
 
+- `touch <filename>` will create a file in the current directory
+
 ## 😸 Git and Github <a name="git"></a>
 
 ### Links
@@ -114,6 +116,10 @@ Boilerplate html
 - Use `.your-class` to style a class in yuor html
 
 - Use `#your-id` to style an id in your html
+
+### Examples
+
+Styling with elements, classes, and id's
 
 ```
 <!--style by element-->
