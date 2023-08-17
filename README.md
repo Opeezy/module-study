@@ -46,6 +46,8 @@
 
 ### Notes
 
+- Use `<!--Your comment-->` to place comments in your html code.
+
 - Use "#" in the href of an `<a>` tag as a placeholder. Example `<a href="#"></a>`
 
 - Use classes `class="your-class-here"` for styling multiple elements with css
@@ -72,15 +74,24 @@
 
 ### Notes
 
+- You can style by html elements.
+
 - Use `.your-class` to style a class in yuor html
 
 - Use `#your-id` to style an id in your html
 
 ```
+<!--style by element-->
+h1 {
+    font-size: 24px;
+}
+
+<!--style by class-->
 .your-class {
     color: red;
 }
 
+<!--style by id-->
 #your-id {
     color: blue;
 }
