@@ -43,13 +43,16 @@
 
 [HTML cheatsheet](https://coding-boot-camp.github.io/full-stack/html/html-cheatsheet)
 
--Use "#" in the href of an `<a>` tag as a placeholder. Example `<a href="#"></a>`
-
--Use classes `class="your-class-here"` for styling multiple elements with css
-
--Use id's `id="your-id-here"` to style unique elements with CSS
 
 ### Notes
+
+- Use "#" in the href of an `<a>` tag as a placeholder. Example `<a href="#"></a>`
+
+- Use classes `class="your-class-here"` for styling multiple elements with css
+
+- Use id's `id="your-id-here"` to style unique elements with CSS
+
+- Use `<link rel="stylesheet" type="text/css" href="<path-to-css">` in the head of your html file to link a css stylesheet
 
 ## 🎨 CSS
 
