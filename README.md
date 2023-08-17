@@ -45,9 +45,9 @@
 
 - [x] 06-Stu_HTML
 
-- [ ] 08_Stu_Attributes
+- [x] 08_Stu_Attributes
 
-- [ ] 10-Stu_CSS-color
+- [x] 10-Stu_CSS-color
 
 - [ ] 12-Stu_CSS-units-fonts
 
