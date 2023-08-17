@@ -72,6 +72,20 @@
 
 ### Notes
 
+- Use `.your-class` to style a class in yuor html
+
+- Use `#your-id` to style an id in your html
+
+```
+.your-class {
+    color: red;
+}
+
+#your-id {
+    color: blue;
+}
+```
+
 ## 📓 Other Resources
 
 ### Links
