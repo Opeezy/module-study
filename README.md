@@ -1,14 +1,38 @@
 # 📝 Module 1 Study Guide
  
 ## ⌨️ Command-Line
+
+### Links
 [Basic commands](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line#basic_built-in_terminal_commands)
 
+### Notes
+
+- `cd <folder-name>` will enter the directory specified
+
+- `cd ..` will go back one directory
+
+- `mkdir <dir-name>` will make a directory in the current directory you are in
+
 ## 😸 Git and Github
+
+### Links
+
 [Github](https://docs.github.com/en/get-started/quickstart/hello-world)
 
 [Git basics](https://www.atlassian.com/git)
 
+### Notes
+
+- `git status` will inform you of any changes made in local repo
+
+- `git add` will stage files for commit. Use `git add -A` to stage all files or use `git add <filename>` to stage a single file
+
+- `git commit -m "your message"` will commit your changes after you have used `git add`. Make sure to write a descriptive message for your commits.
+
 ## 🏗️ HTML
+
+### Links
+
 [Hypertext markup language](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 [Attributes](https://developer.mozilla.org/en-US/docs/Glossary/Attribute)
@@ -21,7 +45,12 @@
 
 -Use id's `id="your-id-here"` to style unique elements with CSS
 
+### Notes
+
 ## 🎨 CSS
+
+### Links
+
 [Color](https://developer.mozilla.org/en-US/docs/Web/CSS/color)
 
 [Font](https://developer.mozilla.org/en-US/docs/Web/CSS/font)
@@ -33,10 +62,19 @@
 [The box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
 
 [Position](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
+
+### Notes
+
 ## 📓 Other Resources
+
+### Links
+
 [Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 
 [Professional README guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+
+
+### Notes
 
 ## ✔️ Activity tracker
 - [x] 02-Stu_Command-Line
