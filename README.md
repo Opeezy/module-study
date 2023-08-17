@@ -1,6 +1,12 @@
 # 📝 Module 1 Study Guide
+
+## Table of Contents
+
+1. [Command-Line](#command-line)
+
+2. [Git and Github](#git)
  
-## ⌨️ Command-Line
+## ⌨️ Command-Line <a name="command-line"></a>
 
 ### Links
 [Basic commands](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line#basic_built-in_terminal_commands)
@@ -13,7 +19,7 @@
 
 - `mkdir <dir-name>` will make a directory in the current directory you are in
 
-## 😸 Git and Github
+## 😸 Git and Github <a name="git"></a>
 
 ### Links
 
