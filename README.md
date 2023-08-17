@@ -23,11 +23,15 @@
 
 ### Notes
 
+- Use `git pull origin main` to sync your local repo with the one on GitHub
+
 - `git status` will inform you of any changes made in local repo
 
 - `git add` will stage files for commit. Use `git add -A` to stage all files or use `git add <filename>` to stage a single file
 
 - `git commit -m "your message"` will commit your changes after you have used `git add`. Make sure to write a descriptive message for your commits.
+
+- `git push` will push your commits to your GitHub repo.
 
 ## 🏗️ HTML
 
