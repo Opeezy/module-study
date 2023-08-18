@@ -2,7 +2,7 @@
 
 ## Acceptance Criteria 
 
-- [ ] It's done when the page uses semantic HTML elements.
+- [x] It's done when the page uses semantic HTML elements.
 
 - [ ] It's done when the page uses universal, element, and class selectors in CSS.
 
