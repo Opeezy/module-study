@@ -118,6 +118,10 @@ input {
     border-radius: 25px;
 }
 
+#button:hover {
+    background-color: rgb(71, 3, 173);
+}
+
 #bottom-bar {
     display: flex;
     align-items: center;
