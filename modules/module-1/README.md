@@ -171,14 +171,12 @@ h1 {
 
 - [x] 12-Stu_CSS-units-fonts
 
-- [ ] 14-Stu_CSS-selectors
+- [x] 14-Stu_CSS-selectors
 
-- [ ] 16-Stu_HTML-display
+- [x] 16-Stu_HTML-display
 
-- [ ] 18-Stu_CSS-box-model
+- [x] 18-Stu_CSS-box-model
 
-- [ ] 20-Stu_CSS-positioning
- 
-- [ ] 21-Evr_Git-Guide
+- [x] 20-Stu_CSS-positioning
 
 - [ ] 22-Stu_Mini-Project
