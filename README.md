@@ -117,6 +117,10 @@ Boilerplate html
 
 - Use `#your-id` to style an id in your html
 
+- Use `*` to target everything on the page. 
+
+- Use lists for navbars
+
 ### Examples
 
 Styling with elements, classes, and id's
@@ -134,6 +138,11 @@ h1 {
 
 <!--style by id-->
 #your-id {
+    color: blue;
+}
+
+<!--style everything-->
+* {
     color: blue;
 }
 ```
