@@ -10,6 +10,8 @@
 
 - The two main media query's are screens and printers
 
+- `flex-wrap: wrap;` will automatically stack flex items if they would otherwise go off the screen
+
 ### Examples
 
 Example of using a screen media query to change an element at a certain screen size
@@ -21,3 +23,7 @@ Example of using a screen media query to change an element at a certain screen s
     }
 }
 ```
+
+Popular screen sizes
+
+![](image.png)
