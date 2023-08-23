@@ -14,6 +14,8 @@
 
 - `flex-wrap: wrap;` will automatically stack flex items if they would otherwise go off the screen
 
+- Use a css reset (see normalize css) before your own css to make sure your elements are all styled the same in every browser
+
 ### Examples
 
 Example of using a screen media query to change an element at a certain screen size
