@@ -6,6 +6,8 @@
 
 [Media Query's](https://www.w3schools.com/css/css3_mediaqueries.asp)
 
+[Normalize CSS](https://necolas.github.io/normalize.css/)
+
 ### Notes
 
 - The two main media query's are screens and printers
